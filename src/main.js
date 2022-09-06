@@ -5,6 +5,7 @@ import store from './store'
 
 // 引入图标样式
 import './styles/index.less'
+import './styles/icon.less'
 
 // 引入vant核心组件
 import Vant from 'vant'
